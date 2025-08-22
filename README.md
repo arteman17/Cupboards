@@ -7,7 +7,7 @@
 
 - **Strategic Gameplay**: Move chips through interconnected points while avoiding obstacles
 - **Multiple Levels**: Progressive difficulty with different board configurations
-- **Smart Pathfinding**: Advanced AI calculates available moves considering blockages
+- **Smart Pathfinding**: Advanced calculating available moves considering blockages
 - **Visual Feedback**: Highlighted available moves and selected chips
 - **Mini-Map**: Always-visible target configuration display
 - **Smooth Animations**: Polished movement and visual effects
